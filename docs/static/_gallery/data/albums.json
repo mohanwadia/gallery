@@ -1,0 +1,35 @@
+{
+   "test": {
+      "name": "Test",
+      "photos": [
+         {
+            "date": "2026-11-25T23:41:46.626182",
+            "exif": {},
+            "faces": [],
+            "height": 512,
+            "name": "android-chrome-512x512.png",
+            "originalSrc": "/gallery/static/_gallery/albums/test/original_android-chrome-512x512-png.png",
+            "slug": "android-chrome-512x512-png",
+            "src": "/gallery/static/_gallery/albums/test/512x512_android-chrome-512x512-png.png",
+            "srcSet": {
+               "(1024, 1024)w": [
+                  "/gallery/static/_gallery/albums/test/512x512_android-chrome-512x512-png.png"
+               ],
+               "(1600, 1600)w": [
+                  "/gallery/static/_gallery/albums/test/512x512_android-chrome-512x512-png.png"
+               ],
+               "(500, 500)w": [
+                  "/gallery/static/_gallery/albums/test/500x500_android-chrome-512x512-png.png"
+               ],
+               "(800, 800)w": [
+                  "/gallery/static/_gallery/albums/test/512x512_android-chrome-512x512-png.png"
+               ]
+            },
+            "thumb": "/gallery/static/_gallery/albums/test/500x500_android-chrome-512x512-png.png",
+            "width": 512
+         }
+      ],
+      "slug": "test",
+      "src": "/gallery/static/_gallery/albums/test/500x500_android-chrome-512x512-png.png"
+   }
+}
