@@ -1,0 +1,11 @@
+gallery:
+  output_path: "docs"
+  allow_download: False
+  exif_transpose: True
+  people:
+    enable: False
+  watermark:
+    enable: False
+site:
+  http_root: "/gallery/"
+  title: "Gallery | Mohan Wadia"
