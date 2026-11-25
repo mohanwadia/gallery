@@ -1,4 +1,5 @@
 gallery:
+  input_path: "_incoming"
   output_path: "docs"
   allow_download: False
   exif_transpose: True
